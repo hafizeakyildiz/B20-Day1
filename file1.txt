@@ -1,1 +1,3 @@
-file1.txt
+This is day1
+
+We created a git repository on desktop called B20-Day1
